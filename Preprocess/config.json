@@ -1,0 +1,19 @@
+{
+    "video_path": "C:\\Users\\elega\\Videos\\test_ds_3_split_cams\\test_stitched_output.mkv",
+    "timestamps_path": "C:\\Users\\elega\\Documents\\GitHub\\3D-vessel-imaging\\Preprocess\\Timestamping\\timestamps.csv",
+    "calibration_video_path": "C:\\Users\\elega\\Videos\\2026-02-24 14-13-20.mkv",
+    "calibration_path": "C:\\Users\\elega\\Documents\\GitHub\\3D-vessel-imaging\\Preprocess\\Camera Calibration\\calibrations\\camera_parameters.json",
+    "intrinsic_calibration_path": "C:\\Users\\elega\\Documents\\GitHub\\3D-vessel-imaging\\Preprocess\\Camera Calibration\\calibrations\\intrinsics\\camera_intrinsics.json",
+    "grid_rows": 3,
+    "grid_cols": 3,
+    "cam_width": 3180,
+    "cam_height": 2160,
+    "view_width": 1360,
+    "view_height": 1360,
+    "num_cams": 9,
+    "screen_width": 1920,
+    "screen_height": 1080,
+    "bounds_file": "bounding_boxes.json",
+    "led_flash_freq": 6,
+    "uses_LED_refinement": false
+}

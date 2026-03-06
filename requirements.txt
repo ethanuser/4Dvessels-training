@@ -1,0 +1,9 @@
+# Core dependencies
+numpy
+opencv-python
+pandas
+matplotlib
+scipy
+tqdm
+Pillow
+pyvista
